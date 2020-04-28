@@ -1,0 +1,32 @@
+{
+  "name": "ngx-particle",
+  "version": "1.5.0",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^9.1.0",
+    "@angular/core": "^9.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnabil/ngx-particle.git"
+  },
+  "keywords": [
+    "angular2",
+    "angular4",
+    "angular",
+    "particlesjs",
+    "particle",
+    "typescript",
+    "ng2",
+    "particles",
+    "typescript",
+    "ng",
+    "ngx"
+  ],
+  "author": "Wassem Nabil <w.nabil@orangestudio.com> (http://arabianlolers.com)",
+  "bugs": {
+    "url": "https://github.com/wnabil/ngx-particle/issues"
+  },
+  "homepage": "https://github.com/wnabil/ngx-particle#readme"
+}

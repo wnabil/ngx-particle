@@ -1,20 +1,22 @@
-# angular-particle
+# ngx-particle
 
-Implementation of [particle.js](https://github.com/VincentGarreau/particles.js/) with TypeScript for Angular2/4. Inspired by [react-particles-js](https://github.com/Wufe/react-particles-js)
+Forked from [angular-particle](https://github.com/ryuKKu-/angular-particle)
+
+Implementation of [particle.js](https://github.com/VincentGarreau/particles.js/) with TypeScript for Angular2+. Inspired by [react-particles-js](https://github.com/Wufe/react-particles-js)
 
 ## Installation
 
 To install this library, run:
 
 ```bash
-$ npm install angular-particle --save
+$ npm install ngx-particle --save
 ```
 
 ## How to use
 
 ```typescript
 // Import ParticlesModule
-import { ParticlesModule } from 'angular-particle';
+import { ParticlesModule } from 'ngx-particle';
 
 @NgModule({
   declarations: [
